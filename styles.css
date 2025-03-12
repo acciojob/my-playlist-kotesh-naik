@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body{
+	background-color:rgb(204,204,204);
+}
+h1,h2,h3{
+	text-align:center;
+}
+#list,#video{
+	border:2px solid black;
+	border-radius:10px;
+	padding:10px;
+}
+li{
+	list-style-type:none;
+}
+#list,#video{
+background-color:rgb(255,255,255);
+	
+}
+.player_two{
+	width:100%;
+}
