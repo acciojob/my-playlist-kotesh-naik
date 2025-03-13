@@ -8,16 +8,27 @@ a{
 h1,h2,h3{
 	text-align:center;
 }
-#list,#video{
-	border:2px solid black;
-	border-radius:10px;
-	padding:10px;
-	background-color:rgb(255,255,255);
 
-}
 li{
 	list-style-type:none;
 }
-audio{
+.player_one{
+	background-color:rgb(255,255,255);
+	border:1px solid white;
+	border-radius:10px;
 	width:100%;
+	padding:10px
+	
+	}
+.player_two{
+	background-color:rgb(255,255,255);
+	border:1px solid white;
+	border-radius:10px;
+	width:100%;
+	padding:10px;
+
+.video{
+	
+	background-color:rgb(255,255,255);
+	padding:10px;
 }
